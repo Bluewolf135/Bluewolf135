@@ -5,16 +5,6 @@
 
 I'm a cybersecurity student, purple teamer, and developer. I am currently working on my portfolio website, while I continue to hone my programming skills in C++, C#, Bash, and PowerShell. I am developing these skills with the goal of creating more complex, security focused scripts, and security applications, such as a C2 server or scoreboard.
 
-## Personal Projects
-
-- **Homelab Project**
-  - [Homelab Project](https://github.com/Bluewolf135/Homelab-Project)
-  - The Den is a Proxmox server, accessible via Tailscale VPN. It houses a homelab where I can do penetration testing, as well as an Ubuntu VM with Docker services running, including my own cloud, password server, and AI services.
-
-- **Portfolio Site**
-  - [willincyber.com](https://willincyber.com)
-  - This project was designed to be a website housing my achievements, and a way for me to learn full-stack web development. To allow for focus on security based projects, this has been deployed using Base44.
-
 ## Cybersecurity Competitions
 
 - **NCAE CyberGames 2026**

@@ -4,3 +4,13 @@
 [![Email](https://img.shields.io/badge/Email-william.destefano@willincyber.com-4A9EDB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:william.destefano@willincyber.com)
 
 I'm a cybersecurity student, purple teamer, and developer. I am currently working on my portfolio website, while I continue to hone my programming skills in C++, C#, Bash, and PowerShell. I am developing these skills with the goal of creating more complex, security focused scripts, and security applications, such as a C2 server or scoreboard.
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Bluewolf135/Bluewolf135/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Bluewolf135/Bluewolf135/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://github.com/Bluewolf135/Bluewolf135/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
